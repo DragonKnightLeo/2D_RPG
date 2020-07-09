@@ -1555,7 +1555,7 @@ PrefabInstance:
     - target: {fileID: 8574328827668602319, guid: bffbd3beca540734ab0f174f5bd29287,
         type: 3}
       propertyPath: m_Name
-      value: TIle_Map
+      value: Tile_Map
       objectReference: {fileID: 0}
     - target: {fileID: 8574328827668602317, guid: bffbd3beca540734ab0f174f5bd29287,
         type: 3}
