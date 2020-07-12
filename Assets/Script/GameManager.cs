@@ -1,5 +1,4 @@
-﻿using JetBrains.Annotations;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Experimental.PlayerLoop;
@@ -34,7 +33,7 @@ public class GameManager : MonoBehaviour
         // Update is called once per frame
     void Update()
     {
-        StopMovement();
+        //StopMovement();
     }
 
     void StopMovement()

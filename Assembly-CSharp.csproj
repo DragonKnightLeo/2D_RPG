@@ -58,6 +58,7 @@
      <Compile Include="Assets\Script\Inventory.cs" />
      <Compile Include="Assets\Script\ItemManager.cs" />
      <Compile Include="Assets\Script\MainMenu.cs" />
+     <Compile Include="Assets\Script\Movement.cs" />
      <Compile Include="Assets\Script\Player.cs" />
      <Compile Include="Assets\Script\PlayerMovement.cs" />
      <Compile Include="Assets\Script\SceneLoader.cs" />
@@ -74,6 +75,7 @@
      <Compile Include="Assets\Scriptable Objects\UI\ItemSlot.cs" />
      <Compile Include="Assets\Scriptable Objects\UI\slotItemImage.cs" />
      <Compile Include="Assets\Scriptable Objects\UI\textDisplay.cs" />
+     <None Include="Assets\Assets_DevilsWorkShop\Low_Poly_Pixel_2D_Blocks_DevilsWorkShop_v04\License.txt" />
      <None Include="Assets\Udemy RPG Assets\Licence.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Andrew/Desktop/2D_RPG/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

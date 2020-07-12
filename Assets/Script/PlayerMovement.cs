@@ -34,6 +34,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        moveCharacter(true);
     }
 
     public void moveCharacter(bool canWalk)
