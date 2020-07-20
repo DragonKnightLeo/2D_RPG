@@ -1,0 +1,1063 @@
+fileFormatVersion: 2
+guid: aea7102907878454cbd48b2636205884
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 408800839643112843
+    second: Isometric Goblin Walking-Sheet_0
+  - first:
+      213: 7365517482302808306
+    second: Isometric Goblin Walking-Sheet_1
+  - first:
+      213: -526794019422946611
+    second: Isometric Goblin Walking-Sheet_2
+  - first:
+      213: -4957388094368000130
+    second: Isometric Goblin Walking-Sheet_3
+  - first:
+      213: -2903317062621007211
+    second: Isometric Goblin Walking-Sheet_4
+  - first:
+      213: 2107505044582907068
+    second: Isometric Goblin Walking-Sheet_5
+  - first:
+      213: -4167045780497746417
+    second: Isometric Goblin Walking-Sheet_6
+  - first:
+      213: 647543899934087716
+    second: Isometric Goblin Walking-Sheet_7
+  - first:
+      213: 7699416402707521162
+    second: Isometric Goblin Walking-Sheet_8
+  - first:
+      213: -2043380332200061494
+    second: Isometric Goblin Walking-Sheet_9
+  - first:
+      213: -1215786136249242464
+    second: Isometric Goblin Walking-Sheet_10
+  - first:
+      213: -8143856335484604633
+    second: Isometric Goblin Walking-Sheet_11
+  - first:
+      213: -4191586269304781680
+    second: Isometric Goblin Walking-Sheet_12
+  - first:
+      213: -645681854279540204
+    second: Isometric Goblin Walking-Sheet_13
+  - first:
+      213: 3944732704430932980
+    second: Isometric Goblin Walking-Sheet_14
+  - first:
+      213: -466824793971749678
+    second: Isometric Goblin Walking-Sheet_15
+  - first:
+      213: 2952176697662977766
+    second: Isometric Goblin Walking-Sheet_16
+  - first:
+      213: 3470823336907166823
+    second: Isometric Goblin Walking-Sheet_17
+  - first:
+      213: -5598206672159690319
+    second: Isometric Goblin Walking-Sheet_18
+  - first:
+      213: -3860381868212860058
+    second: Isometric Goblin Walking-Sheet_19
+  - first:
+      213: -3890245005413956584
+    second: Isometric Goblin Walking-Sheet_20
+  - first:
+      213: -8662521771001267701
+    second: Isometric Goblin Walking-Sheet_21
+  - first:
+      213: 185969685245179351
+    second: Isometric Goblin Walking-Sheet_22
+  - first:
+      213: 822448593699428661
+    second: Isometric Goblin Walking-Sheet_23
+  - first:
+      213: -3930671602447842486
+    second: Isometric Goblin Walking-Sheet_24
+  - first:
+      213: 2930897120902245822
+    second: Isometric Goblin Walking-Sheet_25
+  - first:
+      213: -1731923350483618392
+    second: Isometric Goblin Walking-Sheet_26
+  - first:
+      213: -1704816795505230014
+    second: Isometric Goblin Walking-Sheet_27
+  - first:
+      213: -5240401873180466703
+    second: Isometric Goblin Walking-Sheet_28
+  - first:
+      213: 8862368397499435247
+    second: Isometric Goblin Walking-Sheet_29
+  - first:
+      213: -2894264964701095729
+    second: Isometric Goblin Walking-Sheet_30
+  - first:
+      213: -7042762399865676489
+    second: Isometric Goblin Walking-Sheet_31
+  - first:
+      213: -4291252149917012313
+    second: Isometric Goblin Walking-Sheet_32
+  - first:
+      213: 875410168874003421
+    second: Isometric Goblin Walking-Sheet_33
+  - first:
+      213: -817120701686464627
+    second: Isometric Goblin Walking-Sheet_34
+  - first:
+      213: 140445499455731524
+    second: Isometric Goblin Walking-Sheet_35
+  - first:
+      213: 3128588733206555001
+    second: Isometric Goblin Walking-Sheet_36
+  - first:
+      213: -316153040335052443
+    second: Isometric Goblin Walking-Sheet_37
+  - first:
+      213: -7342746862792373400
+    second: Isometric Goblin Walking-Sheet_38
+  - first:
+      213: -5229586502952941640
+    second: Isometric Goblin Walking-Sheet_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 167
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e584e02c2474e8489806e4ad76fe9b9
+      internalID: 408800839643112843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 167
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53f7c5a368364e4e961a5b497dab758
+      internalID: 7365517482302808306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 167
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071276c0004cd7f4981e54fa612f751f
+      internalID: -526794019422946611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 167
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c894ec8c1cfb2b54fab510c8af9aebc0
+      internalID: -4957388094368000130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 167
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d14114b1b7ffbc49aedb99621d297b5
+      internalID: -2903317062621007211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 167
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfe31b590898894ba090b29002df4e5
+      internalID: 2107505044582907068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 167
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dfc12fd489a804ab0fd1ed3596a199
+      internalID: -4167045780497746417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 135
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763d6794fd42efa46b8b19cf2e117421
+      internalID: 647543899934087716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 135
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd22ccfea076a8e46a7297e919b704e2
+      internalID: 7699416402707521162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 135
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f60e66207208c74daa9323bb0553bf3
+      internalID: -2043380332200061494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 136
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aadaeddd48a32489b418b5f1d64338
+      internalID: -1215786136249242464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 135
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4c5b52f4cf47c4cbb49d8b8beec524
+      internalID: -8143856335484604633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 136
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52475359e28695f4da72ab2fb0e5fc66
+      internalID: -4191586269304781680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 135
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c84983946404fe4aba883c815d6f436
+      internalID: -645681854279540204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 103
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fd8f2f9ee45ae439946afa0451d1e6
+      internalID: 3944732704430932980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 104
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73daff3c9c893c64cb0aa255d5825bcd
+      internalID: -466824793971749678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 103
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bdc110eea4fec4b9226d8def2bb32f
+      internalID: 2952176697662977766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 104
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b9b86e2f142664eb7afde8cb47e329
+      internalID: 3470823336907166823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 103
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93359460b4f9f8a489562217c05f5999
+      internalID: -5598206672159690319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 104
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd1159a75577f94c8d638b089a66dca
+      internalID: -3860381868212860058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 103
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1346ad62fc520364db456ed1a91ce755
+      internalID: -3890245005413956584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 72
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938d0c202c4bcfc42b15b718b58c7d47
+      internalID: -8662521771001267701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 70
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44d776ce466b6546a40c3d921b1b69b
+      internalID: 185969685245179351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 71
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db40e1c1428df1f44ab0b814b1523f83
+      internalID: 822448593699428661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 71
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d5943d999deb49b760644ca8b8dc2
+      internalID: -3930671602447842486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 71
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9fb2fe0f6f8dd478f672b93b120be5
+      internalID: 2930897120902245822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 72
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453600cfcc39123449dd572e5c0cd0ea
+      internalID: -1731923350483618392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 71
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9ab94a7648ee040af159f20113df9a
+      internalID: -1704816795505230014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 39
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfdeaf9f1cc92b4a98b823ad13a2209
+      internalID: -5240401873180466703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 40
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999d7a4544486d3499934022a4dda578
+      internalID: 8862368397499435247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 39
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a6c2267b35cdd4d93710ea8d6048d4
+      internalID: -2894264964701095729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 40
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e667203fecb6aa44eb35bc239567e1d7
+      internalID: -7042762399865676489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 38
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6e8ef21a7a9f14b8350cfc95c1d76e
+      internalID: -4291252149917012313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 39
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f9028bfbd741e4891c8029635981d2
+      internalID: 875410168874003421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 39
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf50e344908fc145a93cb79dbb1a4eb
+      internalID: -817120701686464627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 8
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d219d08ba9b2640b354a221ffe778c
+      internalID: 140445499455731524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 7
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5792271be6c289544a535d462b88fd2e
+      internalID: 3128588733206555001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc511a56aec22449acdbfc4e53c5f36
+      internalID: -316153040335052443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 7
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29cf2d05b5230446862c3a09e37ef91
+      internalID: -7342746862792373400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Goblin Walking-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c08422907a35644b87c420ce433bce
+      internalID: -5229586502952941640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
